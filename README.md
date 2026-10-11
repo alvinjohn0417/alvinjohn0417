@@ -31,5 +31,3 @@ JavaScript-powered workflow logic for converting appointment times across time z
 ### 🔗 Business Process Automation
 
 Workflow projects using Make, Zapier, and n8n to connect applications and reduce manual tasks.
-
-*Project documentation and workflow examples will be added as repositories are published.
