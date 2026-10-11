@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alvin John Ramos 👋
 
-<!--
-**alvinjohn0417/alvinjohn0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation & Workflow Specialist
 
-Here are some ideas to get you started:
+I build intelligent automation workflows that help businesses eliminate repetitive tasks, connect applications, and improve operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **My Portfolio:** [View My AI Automation Portfolio](https://work-wit-charm.lovable.app/)
+
+---
+
+## 🛠️ Technical Skills
+
+- **Workflow Automation:** n8n, Make, Zapier
+- **Programming & Integrations:** JavaScript, JSON, REST APIs, Webhooks
+- **AI Automation:** AI-powered workflows, AI API integrations
+- **Database & Deployment:** Supabase, PostgreSQL, Render
+- **Workflow Design:** Process mapping, troubleshooting, data transformation
+
+---
+
+## 🚀 Projects
+
+### 🎬 AI ASMR Video Generator
+
+An n8n-based automation project designed to streamline AI-assisted video content generation.
+
+### 📅 Appointment Scheduling & Timezone Automation
+
+JavaScript-powered workflow logic for converting appointment times across time zones and processing scheduling data.
+
+### 🔗 Business Process Automation
+
+Workflow projects using Make, Zapier, and n8n to connect applications and reduce manual tasks.
+
+*Project documentation and workflow examples will be added as repositories are published.
