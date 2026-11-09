@@ -2,32 +2,38 @@
 
 ## AI Automation & Workflow Specialist
 
-I build intelligent automation workflows that help businesses eliminate repetitive tasks, connect applications, and improve operational efficiency.
+I build n8n workflows for customer support, lead qualification, and AI-assisted content creation. My projects connect messaging platforms, CRMs, and business tools through APIs and webhooks.
 
-🌐 **My Portfolio:** [View My AI Automation Portfolio](https://work-wit-charm.lovable.app/)
+[Portfolio](https://work-wit-charm.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/alvin-ramos-058a69221)
 
----
+## 🚀 Featured Projects
 
-## 🛠️ Technical Skills
+### ☕ Arya’s Cafe — AI Customer Support & Reservation Chatbot
 
-- **Workflow Automation:** n8n, Make, Zapier
-- **Programming & Integrations:** JavaScript, JSON, REST APIs, Webhooks
-- **AI Automation:** AI-powered workflows, AI API integrations
-- **Database & Deployment:** Supabase, PostgreSQL, Render
-- **Workflow Design:** Process mapping, troubleshooting, data transformation
+A Facebook Messenger chatbot that answers cafe questions, sends menu images directly in chat, and guides guests through table reservation requests.
 
----
+- Uses a Google Docs knowledge base to answer questions about hours, services, and payment options.
+- Sends menu images on request and suggests two items with prices when guests ask for recommendations.
+- Saves reservation progress in Google Sheets so guests can provide their details across multiple messages.
+- In a sprint test, the workflow ran in **6.4 seconds** against an approximately **10-second manual baseline**.
 
-## 🚀 Projects
+**Built with** n8n, Facebook Messenger API, webhooks, Google Docs, and Google Sheets.
 
-### 🎬 AI ASMR Video Generator
+### 🎯 AI Lead Qualification — GoHighLevel
 
-An n8n-based automation project designed to streamline AI-assisted video content generation.
+An n8n workflow that uses AI to evaluate incoming lead information and support follow-up in GoHighLevel.
 
-### 📅 Appointment Scheduling & Timezone Automation
+[Watch the Loom demo](https://www.loom.com/share/cacb5b05e9124f2cba5c909d590edf87)
 
-JavaScript-powered workflow logic for converting appointment times across time zones and processing scheduling data.
+### 🎬 AI ASMR Video Generator v2
 
-### 🔗 Business Process Automation
+An n8n workflow that automates steps in AI-assisted ASMR video production.
 
-Workflow projects using Make, Zapier, and n8n to connect applications and reduce manual tasks.
+[Watch the v2 Loom demo](https://www.loom.com/share/6de02ed3311642c293b457ff2630cac5)
+
+## 🛠️ Tools & Workflow Skills
+
+- **Workflow automation** — n8n, Make, Zapier
+- **Integrations** — REST APIs, webhooks, JSON, Google Workspace, GoHighLevel
+- **AI workflows** — LLM integrations, knowledge-base responses, lead qualification
+- **Workflow design** — Process mapping, conditional routing, data transformation, troubleshooting
